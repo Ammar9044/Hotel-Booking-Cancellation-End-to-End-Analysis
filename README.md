@@ -1,53 +1,76 @@
-Hotel Bookings Cancellation Analysis — Hospitality Data Insights
+🏨 Hotel Booking Cancellation Analysis
+
 Portfolio Project | Hospitality Analytics | SQL | Tableau
-🚀 About This Project
-This project delivers a robust analysis of hotel reservations and cancellations with the aim of understanding guest behavior, operational challenges, and opportunities for improvement. Using structured SQL cleaning, in-depth analytical queries, and interactive Tableau visualizations, this analysis uncovers what drives cancellations, when they happen, and which guest segments or markets are most affected.
 
-My goal: transform complex booking data into clear, actionable insights for hotel managers and data professionals.
+🚀 Project Overview
 
-🎯 What I Set Out to Do
-Analyze overall and segment-specific cancellation rates for hotels
+This project analyzes hotel reservations and cancellations to uncover guest behavior patterns, operational challenges, and opportunities for improvement. Using SQL for data cleaning & analysis and Tableau for visualization, the goal was to turn complex booking data into clear, actionable insights for hotel managers and data professionals.
 
-Identify high-risk market segments, time periods, and geographies for cancellations
+🎯 Objectives
 
-Examine patterns in booking characteristics such as lead time, ADR, special requests, and guest count
+Analyze overall and segment-specific cancellation rates
 
-Find actionable insights to reduce cancellations and optimize booking strategy
+Identify high-risk market segments, time periods, and geographies
 
-🧹 How I Worked With The Data
-Cleaned and transformed raw data using SQL scripts to remove duplicates, fix missing/invalid values, and engineer new features
+Examine booking characteristics such as lead time, ADR, special requests, and guest count
 
-Explored trends, rates, and relationships through targeted SQL EDA queries
+Recommend strategies to reduce cancellations and optimize bookings
 
-Communicated results via interactive Tableau dashboard for effortless exploration and stakeholder engagement
+🧹 Data Preparation
 
-🔍 Key Takeaways & Corresponding Recommendations
-Cancellation Rate in 2017: 31.84%, with a 10,000 canceled bookings out of 31,408 (down from previous year)
+Cleaned and transformed raw hotel booking data using SQL scripts
 
-Highest Risk Segment: Online travel agency bookings showed the highest cancellation rate (39.62%)
+Handled duplicates, missing values, and invalid entries
 
-Recommendation: Strengthen communication and flexible policies for OTA guests, and consider incentives for direct bookings
+Engineered new features (e.g., weekday/month of booking, cancellation flags)
 
-Seasonality: Cancellations peaked in August, suggesting tighter controls or promotional interventions are needed for this period
+Performed EDA with SQL to explore trends, rates, and correlations
 
-Geography: Certain countries exhibited higher cancellation rates, indicating a need for market-specific strategies
+🔍 Key Insights & Recommendations
 
-Recommendation: Target high-cancellation countries with tailored offers or stricter booking requirements
+Overall Cancellation Rate (2017): 31.84%
+➝ 10,000 out of 31,408 bookings canceled (lower than previous year)
 
-Booking Characteristics: Longer lead times and lower ADR bookings tended to cancel more frequently
+Highest Risk Segment: Online Travel Agency (OTA) cancellations at 39.62%
+➝ Recommendation: Improve OTA guest communication, flexible policies, and incentivize direct bookings
 
-Recommendation: Implement prepayment or deposit requirements for risk-prone bookings
+Seasonality: Cancellations peak in August
+➝ Recommendation: Introduce promotions or stricter controls during high-risk months
 
-🛠 Tools I Used
-SQL (MySQL) for data cleaning and exploratory analysis
+Geography: Certain countries showed disproportionately high cancellations
+➝ Recommendation: Apply tailored offers or stricter booking requirements by market
 
-Tableau for dashboard creation and visualization
+Booking Characteristics: Longer lead times and lower ADR bookings cancel more often
+➝ Recommendation: Require deposits/prepayments for high-risk bookings
 
-📬 Let’s Connect!
-Questions, feedback, or collaboration ideas? Reach out anytime:
+📊 Dashboard
+
+Interactive Tableau dashboard for exploring:
+
+Cancellation trends by year, month, and season
+
+Segments (OTA, Direct, Corporate, etc.)
+
+Geographical patterns
+
+Guest/booking characteristics
+
+🔗 View Dashboard on Tableau Public
+
+🛠 Tools & Skills
+
+SQL (MySQL): Data cleaning, transformation, EDA queries
+
+Tableau: Dashboard design & visualization
+
+Hospitality Analytics: Business context and recommendations
+
+📬 Connect With Me
 
 LinkedIn: ammar-jaffar-8919a030a
 
 Email: ammarjaffar100@gmail.com
 
 Tableau Public: ammar.jaffar
+
+✨ This project demonstrates how raw booking data can be transformed into insights that drive smarter hotel strategies.
