@@ -67,7 +67,7 @@ Hospitality Analytics: Business context and recommendations
 
 📬 Connect With Me
 
-LinkedIn: ammar-jaffar-8919a030a
+LinkedIn: https://www.linkedin.com/in/ammar-jaffar-8919a030a/
 
 Email: ammarjaffar100@gmail.com
 
